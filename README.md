@@ -1,4 +1,4 @@
-## Platypus Media Custom Commerce Kickstart Platform for Aegir 3
+## Platypus Media Custom Drupal 10 Platform for Social Stim on Aegir 3
 
 Forked from Consensus Enterprises's Implementation.
 
